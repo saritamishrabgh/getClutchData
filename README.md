@@ -1,7 +1,7 @@
-# Clutch Data Scrapper
+# Clutch Data Scraper
 ## _Built for Automation interview for GetDefault_
 
-This web scrapper is built in Python using Selenium.
+This web scraper is built in Python using Selenium.
 
 ## Features
 - Code is ready and tested to scrape complete data about all the companies from the website. This has been tested for 9000+ data sets where for each domain 2 pages of data was read, but the code is already in place to read the complete list of data.
@@ -36,4 +36,4 @@ pip install selenium
 
 MIT
 
-**Free Data Scrapper for Clutch !!**
+**Free Data Scraper for Clutch !!**
